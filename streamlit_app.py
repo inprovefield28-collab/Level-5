@@ -8,9 +8,9 @@ import random
 # 老師修改區
 # ==========================================
 APP_TITLE = "線上聽力測驗 Level 2"
-INTRO_BOX_TEXT = """• 小學三年級單字、句型
-• 自然發音 Level 2：短母音的辨認
-• 常用日常生活對話 (Dialogue)"""
+INTRO_BOX_TEXT = """• 小學六年級單字、句型
+• 自然發音 Level 5：特殊規則Phonics
+
 
 COLOR_MAIN = "#8B5CF6"   # 主色
 COLOR_LIGHT = "#F5F3FF"  # 說明框背景
