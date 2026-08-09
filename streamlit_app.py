@@ -9,7 +9,7 @@ import random
 # ==========================================
 APP_TITLE = "線上聽力測驗 Level 5"
 INTRO_BOX_TEXT = """• 小學六年級單字、句型
-• 自然發音 Level 5：特殊規則Phonics
+• 自然發音 Level 5：特殊規則Phonics"""
 
 
 COLOR_MAIN = "#8B5CF6"   # 主色
