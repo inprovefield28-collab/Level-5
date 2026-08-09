@@ -1,0 +1,51 @@
+id,question,A,B,C,Answerkey
+1,Where did you go last weekend?,I went to the amusement park.,I go to the amusement park.,I will go to the amusement park.,A
+2,What did you do at the riverside park?,I rode a bike.,I ride a bike.,I riding a bike.,A
+3,Did you see a movie yesterday?,"Yes, I saw a movie.","Yes, I see a movie.","No, I doesn't.",A
+4,Where did she go last night?,She went to the night market.,She goes to the night market.,She going to the night market.,A
+5,What did they do at the department store?,They went shopping.,They go shopping.,They are shopping.,A
+6,Did he eat snacks yesterday?,"No, he drank juice.","No, he drinks juice.","No, he drinking juice.",A
+7,Where did you fly a kite?,I flew a kite at the riverside park.,I fly a kite at the riverside park.,I flown a kite at the riverside park.,A
+8,What did Gary do yesterday?,He swam.,He swims.,He swimming.,A
+9,Did Gina have a picnic yesterday?,"No, she didn't. She drew a picture.","No, she doesn't. She draws a picture.","No, she wasn't. She drawing a picture.",A
+10,What did they do in the park?,They took a walk.,They take a walk.,They taking a walk.,A
+11,Did you sing songs yesterday?,"Yes, I sang songs.","Yes, I sing songs.","Yes, I sung songs.",A
+12,What did he do this morning?,He got a haircut.,He get a haircut.,He getting a haircut.,A
+13,Did she write a letter yesterday?,"Yes, she wrote a letter.","Yes, she writes a letter.","Yes, she written a letter.",A
+14,What did the boys do yesterday?,They ran in the park.,They run in the park.,They running in the park.,A
+15,What would you like to eat?,I'd like a piece of cake.,I'd like a cup of juice.,I like a piece of cake.,A
+16,What would she like to drink?,She'd like a glass of juice.,She'd like a bowl of rice.,She likes a glass of juice.,A
+17,What would they like to eat?,They'd like a plate of noodles.,They'd like a bottle of milk.,They like a plate of noodles.,A
+18,Would you like a bag of cookies?,"Yes, I'd like a bag of cookies.","Yes, I like a bag of cookies.","Yes, I am a bag of cookies.",A
+19,What would he like to drink?,He'd like a bottle of water.,He'd like a box of cookies.,He likes a bottle of water.,A
+20,What would you like to eat?,I'd like a bowl of soup.,I'd like a cup of tea.,I like a bowl of soup.,A
+21,What's the date today?,It's December 1st.,It's on December 1st.,It's December.,A
+22,When is your birthday?,It's on April 10th.,It's April 10th.,It's in April 10th.,A
+23,When is his birthday?,It's on January 5th.,It's January 5th.,It's at January 5th.,A
+24,What's the date today?,It's August 8th.,It's on August 8th.,It's August.,A
+25,When is her birthday?,It's on October 31st.,It's October 31st.,It's in October 31st.,A
+26,What's the date today?,It's February 14th.,It's on February 14th.,It's February.,A
+27,Where is the ball?,It's behind the TV.,It's in the TV.,It's behind to the TV.,A
+28,Is the bakery across from the tea shop?,"No, it's not. It's behind the clinic.","No, it's not. It's behind of the clinic.","No, it's not. It's across the clinic.",A
+29,Where is the police station?,It's between the bakery and the clinic.,It's between the bakery with the clinic.,It's between the bakery to the clinic.,A
+30,Is the bus stop in front of the tea shop?,"Yes, it is.","Yes, it does.","Yes, it has.",A
+31,Where is the clinic?,It's next to the tea shop.,It's next the tea shop.,It's front of the tea shop.,A
+32,Is the tea shop behind the bakery?,"No, it's in front of the bakery.","No, it's in front the bakery.","No, it's front of the bakery.",A
+33,How does the mochi taste?,It tastes sweet.,It taste sweet.,It is taste sweet.,A
+34,How does the tea egg taste?,It tastes salty.,It taste salty.,It is tasting salty.,A
+35,How does the bitter gourd taste?,It tastes bitter.,It taste bitter.,It is taste bitter.,A
+36,Do you like the barbecue?,"No, it is too spicy for me.","No, it tastes too bitter for me.","No, it is too sour for me.",A
+37,How does the lemon taste?,It tastes sour.,It taste sour.,It is taste sour.,A
+38,How does the grilled corn taste?,It tastes salty and sweet.,It taste salty and sweet.,It is tasting salty and sweet.,A
+39,What will we do in Yilan?,We will go camping.,We go camping.,We went camping.,A
+40,What will you do tomorrow?,I will send a postcard.,I send a postcard.,I sent a postcard.,A
+41,Will he take pictures in the park?,"Yes, he will take pictures.","Yes, he takes pictures.","Yes, he took pictures.",A
+42,What will they do tonight?,They will enjoy the hot spring.,They enjoy the hot spring.,They enjoyed the hot spring.,A
+43,Will she buy souvenirs?,"Yes, she will buy souvenirs.","Yes, she buys souvenirs.","Yes, she bought souvenirs.",A
+44,What will you do this weekend?,I will go camping with my friends.,I go camping with my friends.,I went camping with my friends.,A
+45,What do you do on Graduation Day?,We sing the graduation song.,We sang the graduation song.,We will singing the graduation song.,A
+46,Do you give flowers on Graduation Day?,"Yes, we give flowers.","Yes, we gave flowers.","Yes, we giving flowers.",A
+47,What do they do on Graduation Day?,They sign yearbooks.,They signed yearbooks.,They signing yearbooks.,A
+48,What does she do on Graduation Day?,She cleans the classroom.,She clean the classroom.,She cleaned the classroom.,A
+49,Do you have a party on Graduation Day?,"Yes, we have a party.","Yes, we had a party.","Yes, we having a party.",A
+50,What do students do on Graduation Day?,They give flowers and sign yearbooks.,They gives flowers and signs yearbooks.,They gave flowers and signed yearbooks.,A
